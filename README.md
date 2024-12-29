@@ -214,10 +214,20 @@ aws-monitoring-management/
 ## 📚 Estrutura dos Serviços da AWS
 
 A visualização e topologia dos serviços AWS pode ser representada por uma página em HTML (detalhes adicionais no projeto).
+![Imagem da Estrutura dos serviços da AWs](https://github.com/esaluno100/Sistema-Integrado-de-Monitoramento-e-Gest-o-na-AWS/blob/main/Estrutura%20dos%20servi%C3%A7os.png)
 
 ---
+## 📚 Estrutura dos Serviços da AWS
+
+A visualização e topologia dos serviços AWS pode ser representada por uma página em HTML (detalhes adicionais no projeto).
+![Imagem da Topologia do Projeto ](https://github.com/esaluno100/Sistema-Integrado-de-Monitoramento-e-Gest-o-na-AWS/blob/main/Topologia%20do%20Projeto.png)
+
+---
+
 
 Este projeto cobre todas as áreas essenciais de Monitoramento e Gestão, fornecendo ferramentas integradas e práticas para maximizar o uso de recursos AWS de forma eficiente. 🚀
 
 **Contribuições são bem-vindas!**
+Abusem do Commit, Clonar, do Forkar e de melhorar este projeto para a Comunidade!
+
 ```
