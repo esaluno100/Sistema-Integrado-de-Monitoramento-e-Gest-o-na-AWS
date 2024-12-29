@@ -1,6 +1,4 @@
-Aqui está o conteúdo formatado para um README adequado para o GitHub, com emojis e Markdown organizados:
 
-```markdown
 # 🌐 Sistema Integrado de Monitoramento e Gestão na AWS
 
 Este projeto oferece uma solução completa para empresas que desejam **monitorar recursos na AWS**, **automatizar infraestrutura como código** e **analisar custos** para otimizar o orçamento de TI. Utilizando **CloudWatch**, **CloudFormation** e **Cost Explorer**, o sistema proporciona visibilidade, controle e automação de recursos AWS. 🚀
