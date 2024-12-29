@@ -215,9 +215,9 @@ A visualização e topologia dos serviços AWS pode ser representada por uma pá
 ![Imagem da Estrutura dos serviços da AWs](https://github.com/esaluno100/Sistema-Integrado-de-Monitoramento-e-Gest-o-na-AWS/blob/main/Estrutura%20dos%20servi%C3%A7os.png)
 
 ---
-## 📚 Estrutura dos Serviços da AWS
+## 📚 A Topologia dos Serviços da AWS
 
-A visualização e topologia dos serviços AWS pode ser representada por uma página em HTML (detalhes adicionais no projeto).
+A visualização e topologia dos serviços AWS pode ser representada nesta imagem abaixo...
 ![Imagem da Topologia do Projeto ](https://github.com/esaluno100/Sistema-Integrado-de-Monitoramento-e-Gest-o-na-AWS/blob/main/Topologia%20do%20Projeto.png)
 
 ---
